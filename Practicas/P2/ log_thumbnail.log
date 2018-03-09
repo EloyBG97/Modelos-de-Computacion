@@ -1,0 +1,11 @@
+--2017-12-28 12:02:04--  https://i.ytimg.com/vi/50iPvsb6NxQ/default.jpg
+Resolviendo i.ytimg.com (i.ytimg.com)... 216.58.210.142, 216.58.210.174, 216.58.201.142, ...
+Conectando con i.ytimg.com (i.ytimg.com)[216.58.210.142]:443... conectado.
+Petición HTTP enviada, esperando respuesta... 200 OK
+Longitud: 3591 (3,5K) [image/jpeg]
+Grabando a: “miniatura.jpg”
+
+     0K ...                                                   100% 89,5M=0s
+
+2017-12-28 12:02:04 (89,5 MB/s) - “miniatura.jpg” guardado [3591/3591]
+

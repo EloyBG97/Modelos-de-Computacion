@@ -1,0 +1,28 @@
+"author":"WildHater"
+
+"url_encoded_fmt_stream_map":
+"url=https%3A%2F%2Fr6---sn-h5nhv8pa-h5qe.googlevideo.com%2Fvideoplayback%3Finitcwndbps%3D893750%26source%3Dyoutube%26id%3Do-AIXC-zAHURDQ4rH5TCXG3fVbsF9fZMSljF9SzSVnwi1s%26mime%3Dvideo%252Fmp4%26itag%3D22%26pl%3D18%26expire%3D1509560626%26dur%3D966.484%26lmt%3D1508787907945448%26key%3Dyt6%26ip%3D81.0.49.57%26ms%3Dau%26ei%3D0rz5WZPnBsPHWpiniig%26mv%3Dm%26mt%3D1509538903%26requiressl%3Dyes%26signature%3DA0A5A7EADED775F64B6F075038B3636272AD9E41.DC6C685B50A586116C6C7A6BCC7420A0F55F2BCD%26ratebypass%3Dyes%26mm%3D31%26ipbits%3D0%26mn%3Dsn-h5nhv8pa-h5qe%26sparams%3Ddur%252Cei%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Cratebypass%252Crequiressl%252Csource%252Cexpire\u0026itag=22\u0026type=video%2Fmp4%3B+codecs%3D%22avc1.64001F%2C+mp4a.40.2%22\u0026quality=hd720,
+
+url=https%3A%2F%2Fr6---sn-h5nhv8pa-h5qe.googlevideo.com%2Fvideoplayback%3Finitcwndbps%3D893750%26source%3Dyoutube%26id%3Do-AIXC-zAHURDQ4rH5TCXG3fVbsF9fZMSljF9SzSVnwi1s%26expire%3D1509560626%26dur%3D0.000%26lmt%3D1508790340635378%26key%3Dyt6%26ip%3D81.0.49.57%26ms%3Dau%26ei%3D0rz5WZPnBsPHWpiniig%26mv%3Dm%26mt%3D1509538903%26requiressl%3Dyes%26ratebypass%3Dyes%26gir%3Dyes%26mn%3Dsn-h5nhv8pa-h5qe%26clen%3D95830009%26mime%3Dvideo%252Fwebm%26pl%3D18%26itag%3D43%26signature%3D68DF418BEF2A18567D41015419F31CB95470EC03.4C19A501DEA812CBD92F7EF1A9F0242ADE40E6EA%26mm%3D31%26ipbits%3D0%26sparams%3Dclen%252Cdur%252Cei%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Cratebypass%252Crequiressl%252Csource%252Cexpire\u0026itag=43\u0026type=video%2Fwebm%3B+codecs%3D%22vp8.0%2C+vorbis%22\u0026quality=medium,
+
+url=https%3A%2F%2Fr6---sn-h5nhv8pa-h5qe.googlevideo.com%2Fvideoplayback%3Finitcwndbps%3D893750%26source%3Dyoutube%26id%3Do-AIXC-zAHURDQ4rH5TCXG3fVbsF9fZMSljF9SzSVnwi1s%26expire%3D1509560626%26dur%3D966.484%26lmt%3D1508787507702217%26key%3Dyt6%26ip%3D81.0.49.57%26ms%3Dau%26ei%3D0rz5WZPnBsPHWpiniig%26mv%3Dm%26mt%3D1509538903%26requiressl%3Dyes%26ratebypass%3Dyes%26gir%3Dyes%26mn%3Dsn-h5nhv8pa-h5qe%26clen%3D71619355%26mime%3Dvideo%252Fmp4%26pl%3D18%26itag%3D18%26signature%3D7442EF9DA3B8AB1C5757E5C45228F00914E380E6.654C062E66F45F564BFEBD5DB11BA2E702316DF5%26mm%3D31%26ipbits%3D0%26sparams%3Dclen%252Cdur%252Cei%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Cratebypass%252Crequiressl%252Csource%252Cexpire\u0026itag=18\u0026type=video%2Fmp4%3B+codecs%3D%22avc1.42001E%2C+mp4a.40.2%22\u0026quality=medium,
+
+url=https%3A%2F%2Fr6---sn-h5nhv8pa-h5qe.googlevideo.com%2Fvideoplayback%3Finitcwndbps%3D893750%26source%3Dyoutube%26id%3Do-AIXC-zAHURDQ4rH5TCXG3fVbsF9fZMSljF9SzSVnwi1s%26expire%3D1509560626%26dur%3D966.553%26lmt%3D1508786407639207%26key%3Dyt6%26ip%3D81.0.49.57%26ms%3Dau%26ei%3D0rz5WZPnBsPHWpiniig%26mv%3Dm%26mt%3D1509538903%26requiressl%3Dyes%26gir%3Dyes%26mn%3Dsn-h5nhv8pa-h5qe%26clen%3D27289538%26mime%3Dvideo%252F3gpp%26pl%3D18%26itag%3D36%26signature%3D28CD2CDB6D05991D4644988B9DEDCA0CF69B2D.091D438D7F9B94EE273432B2E5B54AFC7737ABA7%26mm%3D31%26ipbits%3D0%26sparams%3Dclen%252Cdur%252Cei%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Crequiressl%252Csource%252Cexpire\u0026itag=36\u0026type=video%2F3gpp%3B+codecs%3D%22mp4v.20.3%2C+mp4a.40.2%22\u0026quality=small,
+
+url=https%3A%2F%2Fr6---sn-h5nhv8pa-h5qe.googlevideo.com%2Fvideoplayback%3Finitcwndbps%3D893750%26source%3Dyoutube%26id%3Do-AIXC-zAHURDQ4rH5TCXG3fVbsF9fZMSljF9SzSVnwi1s%26expire%3D1509560626%26dur%3D966.553%26lmt%3D1508786936978674%26key%3Dyt6%26ip%3D81.0.49.57%26ms%3Dau%26ei%3D0rz5WZPnBsPHWpiniig%26mv%3Dm%26mt%3D1509538903%26requiressl%3Dyes%26gir%3Dyes%26mn%3Dsn-h5nhv8pa-h5qe%26clen%3D9744738%26mime%3Dvideo%252F3gpp%26pl%3D18%26itag%3D17%26signature%3DC0FC19E847A6F9DBB419C67CAEFB5842B0784342.34625D86EA4A434176535A1F967666B2CBA7BBBE%26mm%3D31%26ipbits%3D0%26sparams%3Dclen%252Cdur%252Cei%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Crequiressl%252Csource%252Cexpire\u0026itag=17\u0026type=video%2F3gpp%3B+codecs%3D%22mp4v.20.3%2C+mp4a.40.2%22\u0026quality=small"
+
+"view_count":"842049"
+
+"length_seconds":"966"
+
+"video_id":"fVeXG6H7Kec"
+
+"tag_for_child_directed":true
+
+"thumbnail_url":"https:\/\/i.ytimg.com\/vi\/fVeXG6H7Kec\/default.jpg"
+
+"clickTrackingParams":"CJABEJhNGAMiEwiTmLSLr53XAhXDoxYKHZiTAgUo-B0="
+
+"defaultText":{"accessibility":{"accessibilityData":{"label":"7.443 No me gusta"}},"simpleText":"7 K"},"defaultServiceEndpoint":{"clickTrackingParams":"CI8BEJhNGAQiEwiTmLSLr53XAhXDoxYKHZiTAgUo-B0=","likeEndpoint":{"status":"DISLIKE","target":{"videoId":"fVeXG6H7Kec"}}},"toggledText":{"accessibility":{"accessibilityData":{"label":"7.444 No me gusta"}},"simpleText":"7 K"}
+
+"defaultText":{"accessibility":{"accessibilityData":{"label":"Me gusta: 37.888"}},"simpleText":"37 K"},"defaultServiceEndpoint":{"clickTrackingParams":"CJABEJhNGAMiEwiTmLSLr53XAhXDoxYKHZiTAgUo-B0=","likeEndpoint":{"status":"LIKE","target":{"videoId":"fVeXG6H7Kec"}}},"toggledText":{"accessibility":{"accessibilityData":{"label":"Me gusta: 37.889"}},"simpleText":"37 K"}
